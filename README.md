@@ -4,6 +4,7 @@ My Figma projects in Google UX Design courses
 
 ## Jobstar Mobile App
 [Jobstar Mobile App Designs](https://www.figma.com/file/JokbDJ3CvJ4fGxLxVD79JO/Jobstar---Mobile-App?node-id=44%3A1184)
+
 [Jobstar Mobile App Prototype](https://www.figma.com/proto/JokbDJ3CvJ4fGxLxVD79JO/Jobstar---Mobile-App?node-id=235%3A1903&scaling=scale-down&page-id=44%3A1184&starting-point-node-id=107%3A9921)
 
 
